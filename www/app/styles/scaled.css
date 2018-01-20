@@ -1,0 +1,15 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2018 App Builder - https://www.davidesperalta.com
+ */
+
+/* App auto generated CSS */
+
+html, body { width: 320px; height: 480px; }
+
+#QrCodeTarget { position: absolute; top: 15.00%; left: 17.50%; width: 62.50%; height: 41.67%; }
+
+#QrCodeButton { position: absolute; top: 75.00%; left: 17.50%; width: 62.50%; height: 7.29%; }
+
+#QrCodeInput { position: absolute; top: 61.67%; left: 17.50%; width: 62.50%; height: 6.25%; }
